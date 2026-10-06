@@ -2,6 +2,8 @@
 
 Training code for **PA-LOCO: Learning Perturbation-Adaptive Locomotion for Quadruped Robots** by Zhiyuan Xiao, Xinyu Zhang, Xiang Zhou, and Qingrui Zhang.
 
+[Project website](https://qrz-lab.github.io/PA-LOCO/) · [IEEE paper](https://ieeexplore.ieee.org/document/10801753/) · [arXiv preprint](https://arxiv.org/abs/2407.04224)
+
 ## Methods
 
 | Paper method | Task | Training |
