@@ -1,8 +1,10 @@
 # PA-LOCO (IROS 2024)
 
-Training code for **PA-LOCO: Learning Perturbation-Adaptive Locomotion for Quadruped Robots** by Zhiyuan Xiao, Xinyu Zhang, Xiang Zhou, and Qingrui Zhang.
+_Training code repository_ for [**PA-LOCO: Learning Perturbation-Adaptive Locomotion for Quadruped Robots**](https://qrz-lab.github.io/PA-LOCO/) 
 
-[Project website](https://qrz-lab.github.io/PA-LOCO/) · [IEEE paper](https://ieeexplore.ieee.org/document/10801753/) · [arXiv preprint](https://arxiv.org/abs/2407.04224)
+_Main authors_: **Zhiyuan Xiao**, **Xinyu Zhang**, **Xiang Zhou**, and **Qingrui Zhang**.
+
+_PDF download link_:· [IEEE paper](https://ieeexplore.ieee.org/document/10801753/) · [arXiv preprint](https://arxiv.org/abs/2407.04224)
 
 ## Methods
 
